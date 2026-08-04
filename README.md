@@ -1,2 +1,2 @@
 # Portfolio_Python
-Questa repository raccoglie una selezione di programmi sviluppati in Python con finalità didattiche, di studio e di sperimentazione. I progetti coprono diversi ambiti della programmazione, dagli algoritmi e dalle strutture dati alle simulazioni numeriche, dall'elaborazione di dati alle applicazioni scientifiche e matematiche.
+Repository che documenta il mio percorso di apprendimento di Python. Contiene implementazioni personali di esercizi e piccoli progetti, in parte sviluppati durante il corso Python for Everybody, insieme a programmi realizzati autonomamente. Ogni progetto è corredato da documentazione e istruzioni per l'esecuzione.
