@@ -1,4 +1,4 @@
-# Esempio di programmazione a oggetti
+# Creazione classi di oggetti
 
 Programma Python che mostra i principali concetti della programmazione a oggetti attraverso un semplice modello di gestione dei dipendenti.
 
