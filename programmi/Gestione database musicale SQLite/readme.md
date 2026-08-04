@@ -1,4 +1,4 @@
-# Creazione database musicale SQLite
+# Gestione database musicale SQLite
 
 Programma Python che importa dati musicali da un file CSV e crea un database relazionale SQLite contenente informazioni su artisti, album e brani.
 
