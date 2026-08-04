@@ -48,14 +48,14 @@ def plots():
     plt.legend()
     plt.xlabel('Redshift z')
     plt.ylabel('Distance [Mpc]')
-    plt.title("ex 1.4 Distances")
+    plt.title("Distances")
     plt.grid()
 
     plt.subplot(1,2,2)
     plt.plot(redshift,backtime, 'm-', linewidth=0.75) 
     plt.xlabel('Redshift z')
     plt.ylabel('Time [Gyr]')
-    plt.title("ex 1.4 Lookback Time")
+    plt.title("Lookback Time")
     plt.grid()
     
     plt.tight_layout()
