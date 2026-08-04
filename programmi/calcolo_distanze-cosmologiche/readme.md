@@ -1,4 +1,4 @@
-# Simulazione delle distanze cosmologiche
+# Calcolo delle distanze cosmologiche
 
 Programma Python sviluppato per lo studio di un modello cosmologico. Il codice calcola le distanze comoventi, le distanze di luminosità e il tempo di lookback in funzione del redshift, utilizzando l'integrazione numerica delle equazioni cosmologiche.
 
